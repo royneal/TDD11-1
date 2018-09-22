@@ -52,9 +52,9 @@ class PidController {
   double getKd() const;
 
  private:
-  const double k_d_;
-  const double k_i_;
   const double k_p_;
+  const double k_i_;
+  const double k_d_;
   double previous_error_ = 0;
   double integral_ = 0;
 };
