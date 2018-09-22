@@ -10,3 +10,14 @@ Part 1: @rdumont36 Solo (Group of 3)
 ## UML Diagram
 
 [Available online as an image](https://drive.google.com/file/d/101eZGlcmx3B5cjUZktztFfm26cpdheR4/view?usp=sharing)
+
+## Building and Running Tests
+```
+git clone --recursive https://github.com/rdumont36/TDD11.git
+cd TDD11
+mkdir build
+cd build
+cmake ..
+make
+Run tests: ./test/cpp-test
+```
