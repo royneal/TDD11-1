@@ -1,6 +1,6 @@
 # C++ Boilerplate
-[![Build Status](https://travis-ci.org/dpiet/cpp-boilerplate.svg?branch=master)](https://travis-ci.org/dpiet/cpp-boilerplate)
-[![Coverage Status](https://coveralls.io/repos/github/dpiet/cpp-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/dpiet/cpp-boilerplate?branch=master)
+[![Build Status](https://travis-ci.org/rdumont36/TDD11.svg?branch=master)](https://travis-ci.org/rdumont36/TDD11)
+[![Coverage Status](https://coveralls.io/repos/github/rdumont36/TDD11/badge.svg?branch=master)](https://coveralls.io/github/rdumont36/TDD11?branch=master)
 ---
 
 ## Overview
