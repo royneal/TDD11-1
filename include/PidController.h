@@ -57,6 +57,10 @@ class PidController {
   const double k_d_;
   double previous_error_ = 0;
   double integral_ = 0;
+  double err_ = 0;
+  double velocity_ = 0;
+  double current_state_ = 0;
+  double previous_err_ = 0;
 };
 
 #endif  // INCLUDE_PIDCONTROLLER_H_
