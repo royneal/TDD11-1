@@ -6,6 +6,12 @@
 
 # Build artifacts
 build/
+CMakeFiles/
+CMakeCache.txt
+CmakeLists.txt
+cmake_install.cmake
+compile_commands.jason
+Makefile
 
 # Python
 *.pyc
