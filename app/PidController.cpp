@@ -1,3 +1,4 @@
+// copyright [2018] <Robert Dumont>
 /** @file PidController.cpp
  *  @brief Implementation for a simple PID Controller
  *
@@ -22,7 +23,7 @@ PidController::PidController(double kp, double ki, double kd)
 
 double PidController::calculate(double current_velocity, double set_point,
                                 double dt) {
-  previous_err_ = err_;  //should be written at the end and read in the beginning before err gets recalcuated
+  previous_err_ = err_; 
   err_ = set_point - current_velocity;
   integral_ += err_;
 

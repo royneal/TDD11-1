@@ -6,6 +6,8 @@
 ## Authors
 
 Part 1: @rdumont36 Solo (Group of 3)
+Part 2: @royneal Driver 
+	@shivaang12 Navigator 
 
 ## UML Diagram
 

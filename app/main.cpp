@@ -1,4 +1,4 @@
-// copyrigt 2018 Royneal Rayess , Shivang Patel
+// copyright [2018] Royneal Rayess , Shivang Patel
 /*
  * @file main.cpp
  * @author Royneal Rayess , Shivang Patel
@@ -8,8 +8,8 @@
  *        for 808x assignment Week4 PartB
  */
 
-#include <iostream>
 #include <PidController.h>
+#include <iostream>
 
 using std::cout;
 using std::endl;
@@ -33,7 +33,6 @@ int main() {
       cout << "not converging fast enough, exiting " << endl;
       break;
     }
-
   }
   return 0;
 }
